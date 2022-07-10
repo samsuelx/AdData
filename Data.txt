@@ -1,3 +1,4 @@
 Fiverr;Text;Get Samuel as Freelancer;www.fiverr.com
 Mercedes;Text;Das Beste oder nichts;www.mercedes.de
 Youtube;Text;Stream Music;www.youtube.de
+Apple;Picture;The new Iphone;www.apple.de
