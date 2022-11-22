@@ -1,4 +1,6 @@
-Fiverr;Text;Get Samuel as Freelancer;https://www.fiverr.com/inbox/hollymood;0;79797
-Mercedes;Text;Das Beste oder nichts;https://www.mercedes-amg.com/de/fahrzeuge/e-klasse/limousine.html;0;0
-Youtube;Text;Stream Music;https://www.youtube.com/30;0
-Apple;Picture;https://www.tvmovie.de/assets/2022/05/27/89033-so-soll-das-neue-iphone-14-aussehen.png;https://www.apple.com/itunes/;90;0
+Fact;Gute Arbeit, du hast bereits €23 verdient. Das entspricht dem durchschnittlichen Lohn für einen Tag Arbeit in Mexiko.;23;0
+Fact;Starke Leistung, du hast heute schon €17.90 verdient und damit gleichzeitig den durchschnittlichen Stundenlohn in Schweden auf deinem Konto. ;17.9;0
+Fact;Sehr gut, durch deine Arbeit hast du schon €6.50 verdient. Das entspricht dem durchschnittlichen Preis für einen Burger in der Schweiz. ;6.5;0
+Fact;Super, not deinen bereits verdienten €12 hast du den Mindestlohn in Deutschland erreicht. ;12,0
+Fact;Sehr gut, du hast bereits €10 verdient, was dem Mindestlohn in Irland entspricht. ;10;0
+Fact;Sehr gut, du hast bereits € 9.50 verdient! Das ist ungefähr das durchschnittliche Gehalt für einen Tag Arbeit in Indien im Jahre 2011. ;9.5;0
