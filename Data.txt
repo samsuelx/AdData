@@ -1,6 +1,14 @@
-Fact;Gute Arbeit, du hast bereits €23 verdient. Das entspricht dem durchschnittlichen Lohn für einen Tag Arbeit in Mexiko.;23;0
-Fact;Starke Leistung, du hast heute schon €17.90 verdient und damit gleichzeitig den durchschnittlichen Stundenlohn in Schweden auf deinem Konto. ;17.9;0
-Fact;Sehr gut, durch deine Arbeit hast du schon €6.50 verdient. Das entspricht dem durchschnittlichen Preis für einen Burger in der Schweiz. ;6.5;0
-Fact;Super, not deinen bereits verdienten €12 hast du den Mindestlohn in Deutschland erreicht. ;12,0
-Fact;Sehr gut, du hast bereits €10 verdient, was dem Mindestlohn in Irland entspricht. ;10;0
-Fact;Sehr gut, du hast bereits € 9.50 verdient! Das ist ungefähr das durchschnittliche Gehalt für einen Tag Arbeit in Indien im Jahre 2011. ;9.5;0
+Fact;Gute Arbeit, du hast bereits €23 verdient. Das entspricht dem durchschnittlichen Lohn für einen Tag Arbeit in Mexiko.;0;23;0;0
+Fact;Starke Leistung, du hast heute schon €17.90 verdient und damit gleichzeitig den durchschnittlichen Stundenlohn in Schweden auf deinem Konto.;0;17.9;0;0
+Fact;Sehr gut, durch deine Arbeit hast du schon €6.50 verdient. Das entspricht dem durchschnittlichen Preis für einen Burger in der Schweiz.;0;6.5;0;0
+Fact;Super, not deinen bereits verdienten €12 hast du den Mindestlohn in Deutschland erreicht.;0;12,0;0
+Fact;Sehr gut, du hast bereits €10 verdient, was dem Mindestlohn in Irland entspricht. ;0;10;0;0
+Fact;Sehr gut, du hast bereits € 9.50 verdient! Das ist ungefähr das durchschnittliche Gehalt für einen Tag Arbeit in Indien im Jahre 2011.;0;9.5;0;0
+Tipp;Du hast jetzt schon 75 min gearbeitet. Um möglichst produktiv und konzentriert zu bleiben, wird empfohlen, alle 75-90 min eine Pause zu machen. Also wenn du kannst, schliesse doch kurz deine Augen, atme 5 Mal tief ein und aus und entspanne dich kurz. ;0;0;4500
+Sehr gut, du hast schon 15 min gearbeitet. Egal, was du arbeitest, achte auf deine Haltung. Schon 15 min lang bewusst gerade Sitzen täglich kann deine Haltung und die Gesundheit deines Rückens verbessern. ;0;0;900
+Du hast jetzt schon 30 min gearbeitet. Vergiss nicht, auch während der Arbeit genügend Flüssigkeit zu dir zu nehmen. Es wird empfohlen lieber öfter und dafür nur ein paar Schlücke zu trinken und natürlich am besten Wasser. ;0;0;1800
+Du hast jetzt 60 min gearbeitet. Auch wenn man seine Arbeit gerne macht, schaut man an manchen Tagen öfter mal auf die Uhr. Wir denken, es ist motivierender, immer mal zu schauen, wie viel man schon verdient hat - das ist auch die Grundidee dieser App :) ;0;0;3600
+Du hast bereits 3 Stunden gearbeitet. Hier kommt ein kleiner Reminder, dass es meist besser ist, sich auf eine Aufgabe zur Zeit zu konzentrieren und diese abzuschließen, bevor man die nächste beginnt. ;0;0;10800
+Sehr gut, du hast schon 4 Stunden gearbeitet. Falls dir bei der Arbeit mal die Motivation fehlt, fokussiere dich darauf, was du bei deiner Tätigkeit lernen kannst und erinnere dich an alle positiven Dinge, die sie mit sich bringt, auch die kleinen Dinge. ;0;0;14400
+Du hast schon 4,5 Stunden gearbeitet, du Maschine! Vergiss dabei nicht, deinem Körper auch hochwertigen „Treibstoff“ zu geben. Mit einer gesunden Ernährung und Lebensmitteln, von denen du weißt, dass sie dir gut bekommen, kannst du bessere Leistungen erzielen. ;0;0;16200
+Super, du hast schon 1,5 Stunden gearbeitet. Auch wenn es nur ein paar Sekunden sind: Ein Blick in die Social Media App oder in die News kann deine Konzentration für mehrere Minuten stören. Du könntest stattdessen lieber z.B. meditativ auf dein Gehalt schauen ;) ;0;0;5400
